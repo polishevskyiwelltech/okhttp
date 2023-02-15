@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d309db-d4e7-4aa2-9f34-499fd39ff44a" name="Changes" comment="" />
+    <list default="true" id="71d309db-d4e7-4aa2-9f34-499fd39ff44a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/datareqres/Datum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MaMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/Dob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/Dob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/Registered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/Registered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/UserServerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/UserServerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datareqres/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datareqres/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datareqres/Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datareqres/Root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datareqres/Support.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datareqres/Support.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/network/RandomUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/network/RandomUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/network/ReqresListUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/network/ReqresListUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/network/RetrofitClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/network/RetrofitClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +29,66 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LmkDaITiVVKWDiS1v89hE7XPUH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/serhii/okhttp/src/main/java/datareqres"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/datareqres" />
+      <recent name="$PROJECT_DIR$/src/main/java/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MaMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaMainClass" />
+      <module name="okhttp.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaMainClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +99,19 @@
       <updated>1676483528721</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MaMainClass.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

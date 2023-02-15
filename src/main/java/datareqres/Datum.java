@@ -1,5 +1,5 @@
 package datareqres;
-public class Data{
+public class Datum{
     public int id;
     public String email;
     public String first_name;
